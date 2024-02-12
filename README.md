@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![awewsomegamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=awewsomegamer)](https://github.com/anuraghazra/github-readme-stats)
+[![awewsomegamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=awewsomegamer&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **awewsomegamer/awewsomegamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
