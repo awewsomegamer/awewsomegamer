@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a low-level programmer who mostly works in C.
-Currently I am developing an operating system called Arctan.
+Currently I am developing an operating system called <a href="https://github.com/Arctan-OS/">Arctan</a>.
 
 I am interested in the lower levels of computing, such as operating systems, computer architecture, compilers, etc...
 
